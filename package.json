@@ -1,0 +1,22 @@
+{
+  "name": "opw_00",
+  "version": "1.0.0",
+  "description": "openwerather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andretomas1012524/opw_00.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andretomas1012524/opw_00/issues"
+  },
+  "homepage": "https://github.com/andretomas1012524/opw_00#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
