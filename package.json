@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/andretomas1012524/opw_00#readme",
   "dependencies": {
+    "bcrypt": "^5.0.0",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
